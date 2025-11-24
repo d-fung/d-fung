@@ -6,9 +6,11 @@ Currently, I'm working as an Integration Developer at University Health Network,
 Previously, I worked as a Software Engineering Intern at Ontario Power Generation and helped create full stack analytic dashboards for the Trading team and
 created models to predict energy pricing in Ontario and US regions.
 
-I'm interested in the developments of both tech and health sciences, and have both a Bachelors in Software Engineering and Science (Spec. in Medical Sciences).
+I'm interested in the developments of both tech and health sciences, and have both a Bachelors in Software Engineering and Science (Spec. in Medical Sciences). I find the most enjoyment in building something that my friends and I use, and love to automate the boring stuff.
 
 Outside of work, I like to stay active through volleyball, golf, and lifting weights at the gym. I'm also a big video gamer and have been playing League of Legends since 2011.
+I also love to travel the world and take pictures with my Sony A7III and Canon A-1 film camera. 
+Fun fact: my display picture was a photo taken by me at Fushimi Inari in Japan this year.
 
 ### I'm always open to connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/davidfung98)
