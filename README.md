@@ -8,8 +8,7 @@ created models to predict energy pricing in Ontario and US regions.
 
 I'm interested in the developments of both tech and health sciences, and have both a Bachelors in Software Engineering and Science (Spec. in Medical Sciences). I find the most enjoyment in building something that my friends and I use, and love to automate the boring stuff.
 
-Outside of work, I like to stay active through volleyball, golf, and lifting weights at the gym. I'm also a big video gamer and have been playing League of Legends since 2011.
-I also love to travel the world and take pictures with film camera. 
+Outside of work, I stay active through volleyball, golf, and strength training. I’ve been an avid gamer since I was young, with League of Legends being a longtime favorite (since 2011). I also enjoy traveling and capturing moments on film.
 
 Fun fact: my display picture was a photo taken by me at Fushimi Inari in Japan this year! ⛩️
 
