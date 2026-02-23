@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [David](davidfung.dev), a software engineer in Toronto.
+I'm [David](https://www.davidfung.dev/), a software engineer in Toronto.
 
 Currently, I'm working as an Integration Developer at University Health Network, where I build custom interfaces and ensure that millions of clinical messages reach their destination every day. 
 Previously, I worked as a Software Engineering Intern at Ontario Power Generation and helped create full stack analytic dashboards for the Trading team and
